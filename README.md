@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm SAKi🍈 - I'm a developer with an interest in various programming languages and technologies. I enjoy working on structured systems and problem-solving, particularly in backend development and data processing. Graduated from Waseda University.
+I'm SAKi🍈 - I'm a developer with an interest in various programming languages and technologies.Graduated from Waseda University and currently studying at 42Tokyo.
 
 [![SkillIcons](https://skillicons.dev/icons?i=c,cs,git,dotnet,py,go,docker,ps,ae,blender)](https://skillicons.dev)<br/>
 
