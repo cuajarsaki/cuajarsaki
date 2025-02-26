@@ -2,7 +2,7 @@
 
 I'm SAKi🍈 - I'm a developer with an interest in various programming languages and technologies.Graduated from Waseda University and currently studying at 42Tokyo.
 
-[![SkillIcons](https://skillicons.dev/icons?i=c,cs,git,dotnet,py,go,docker,ps,ae,blender)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=c,cs,git,dotnet,java,py,go,docker,ps,ae,blender)](https://skillicons.dev)<br/>
 
 <details>
   <summary>Github Stats :zap:</summary>
