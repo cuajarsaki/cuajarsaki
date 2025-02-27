@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ffffff,100:98fb98&text=Hi%20there!%20I'm%20SAKi🍈&fontAlign=50&section=header&reversal=true&fontColor=ffc0cb&animation=fadeIn&descAlign=49&descAlignY=48&fontSize=24" alt="header" width="100%" />
 
-I'm SAKi🍈 - I'm a developer with an interest in various programming languages and technologies.Graduated from Waseda University and currently studying at 42Tokyo.
+I'm SAKi🍈 - I'm a developer with an interest in various programming languages and technologies
 
 [![SkillIcons](https://skillicons.dev/icons?i=c,cs,git,dotnet,java,py,go,docker,ps,ae,blender)](https://skillicons.dev)<br/>
 
