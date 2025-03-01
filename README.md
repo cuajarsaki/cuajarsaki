@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c7ffba&fontAlign=50" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=60&duration=3000&pause=1&color=82F783&background=20FF2200&multiline=true&repeat=false&width=2500&height=180&lines=Hello+there!+I'm+SAKi%F0%9F%8D%88+;I'm+a+developer+with+an+interest+in+various+programming+languages+and+technologies" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=60&duration=3000&pause=1&color=82F783&background=20FF2200&multiline=true&width=2500&height=180&lines=Hello+there!+I'm+SAKi%F0%9F%8D%88+;I'm+a+developer+with+an+interest+in+various+programming+languages+and+technologies" alt="Typing SVG" /></a>
 
 
 [![SkillIcons](https://skillicons.dev/icons?i=c,cs,git,dotnet,java,py,go,docker,ps,ae,blender)](https://skillicons.dev)<br/>
