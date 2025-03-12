@@ -6,12 +6,19 @@
 [![SkillIcons](https://skillicons.dev/icons?i=c,cs,git,dotnet,java,py,go,docker,ps,ae,blender)](https://skillicons.dev)<br/>
 
 <details>
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=9999&color=F791E4&lines=LiVE+is+Smile+Always)](https://git.io/typing-svg) 
+
+  ![visitor](https://komarev.com/ghpvc/?username=cuajarsaki&color=ff69b4)
+    
   <summary>Github Stats :zap:</summary>
   
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=cuajarsaki&theme=neon&count_private=true&hide_border=true&card_width=300" width="300"></a>
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuajarsaki&layout=compact&theme=neon&count_private=true&hide_border=true&langs_count=5&card_width=300" width="300"></a>
 
 </details>
+
+
 
 <!--
 **cuajarsaki/cuajarsaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
